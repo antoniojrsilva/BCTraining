@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "AL: Generated Download Symbols request",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox",
+            "breakOnError": "ExcludeTry",
+            "tenant": "0916e677-5cfb-47eb-ab61-c4e7bcf9e0bc"
+        },
+        {
+            "name": "AL: Generated Attach request",
+            "request": "attach",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "Sandbox",
+            "breakOnNext": "WebClient",
+            "breakOnError": "ExcludeTry",
+            "tenant": "0916e677-5cfb-47eb-ab61-c4e7bcf9e0bc"
+        }
+    ]
+}
