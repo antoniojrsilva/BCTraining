@@ -1,0 +1,8 @@
+{
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${CodeCop}",                   //https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/analyzers/codecop
+        "${PerTenantExtensionCop}",     //https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/analyzers/pertenantextensioncop
+        "${UICop}"                      //https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/analyzers/uicop
+    ]
+}

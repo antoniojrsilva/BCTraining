@@ -3,21 +3,21 @@
     "name": "AI Test",
     "publisher": "Antonio Silva",
     "version": "1.0.0.0",
-    "brief": "",
-    "description": "",
-    "privacyStatement": "",
-    "EULA": "",
-    "help": "",
+    "description": "AI Test",
+    "brief": "This is a brief description of the AI Test app.",
+    "privacyStatement": "https://example.com/privacy",
+    "EULA": "https://example.com/eula",
+    "help": "https://example.com/help",
     "url": "",
-    "logo": "",
+    "applicationInsightsConnectionString": "InstrumentationKey=your_instrumentation_key",
     "dependencies": [],
     "screenshots": [],
     "platform": "1.0.0.0",
     "application": "25.1.0.0",
     "idRanges": [
         {
-            "from": 50100,
-            "to": 50149
+            "from": 50000,
+            "to": 99999
         }
     ],
     "resourceExposurePolicy": {
@@ -27,6 +27,7 @@
     },
     "runtime": "14.0",
     "features": [
-        "NoImplicitWith"
+        "NoImplicitWith",
+        "TranslationFile"
     ]
 }

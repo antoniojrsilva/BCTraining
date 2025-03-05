@@ -1,4 +1,4 @@
-page 50101 "Project Cost Data API"
+page 50000 "Project Cost Data API"
 {
     PageType = API;
     APIVersion = 'v2.0';
