@@ -34,6 +34,9 @@ page 50000 "Project Cost Data API"
                 field(TotalCost; Rec."Total Cost")
                 {
                 }
+                field(Description; Rec.Description)
+                {
+                }
             }
         }
     }
