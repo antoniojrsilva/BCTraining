@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="AI Test">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 2873213590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>My First Prompt Dialog</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My First Prompt Dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2873213590 - Action 745909125 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attach the project</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My First Prompt Dialog - Action Attach - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2873213590 - Action 745909125 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attach</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My First Prompt Dialog - Action Attach - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2873213590 - Action 2626368477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generate the project</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My First Prompt Dialog - Action Generate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2873213590 - Action 2626368477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Generate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My First Prompt Dialog - Action Generate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2873213590 - Action 2388911040 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regenerate the project</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My First Prompt Dialog - Action Regenerate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2873213590 - Action 2388911040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regenerate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page My First Prompt Dialog - Action Regenerate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1987471902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power BI Financial Overview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PbiFullPage_Simple - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1315273254 - Control 3659969568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2035704742">
+          <source>Power BI Reports</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TeamMemberRoleCenter - Control PowerBIReportPart1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1315273254 - Control 2698889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2035704742">
+          <source>Power BI Reports</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TeamMemberRoleCenter - Control PowerBIReportPart2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3239159497 - Control 779730061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4194195770">
+          <source>Pbi Presentation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorListExt - Control VendorName - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
