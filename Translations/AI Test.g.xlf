@@ -3,6 +3,11 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="AI Test">
     <body>
       <group id="body">
+        <trans-unit id="Page 2335653968 - NamedType 4158366253" size-unit="char" translate="yes" xml:space="preserve">
+          <source>https://app.powerbi.com/view?r=eyJrIjoiMzlkNzFiMTAtM2QyNS00MjA0LWFkNmUtYjQ0YTk1NWZlMzg2IiwidCI6IjA5MTZlNjc3LTVjZmItNDdlYi1hYjYxLWM0ZTdiY2Y5ZTBiYyIsImMiOjF9</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FullPagePowerBI - NamedType HiperLinkText</note>
+        </trans-unit>
         <trans-unit id="Page 2873213590 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>My First Prompt Dialog</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -38,11 +43,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page My First Prompt Dialog - Action Regenerate - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1987471902 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Power BI Financial Overview</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page PbiFullPage_Simple - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PageExtension 1315273254 - Control 3659969568 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2035704742">
           <source>Power BI Reports</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -52,11 +52,6 @@
           <source>Power BI Reports</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension TeamMemberRoleCenter - Control PowerBIReportPart2 - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 3239159497 - Control 779730061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4194195770">
-          <source>Pbi Presentation</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension VendorListExt - Control VendorName - Property Caption</note>
         </trans-unit>
       </group>
     </body>
